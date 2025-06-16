@@ -1,0 +1,1 @@
+# pandoc_bin_example

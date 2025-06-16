@@ -88,5 +88,8 @@ DEPENDENCIES
   falcon
   pandoc_binary
 
+RUBY VERSION
+   ruby 3.4.4p34
+
 BUNDLED WITH
    2.6.9

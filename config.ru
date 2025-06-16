@@ -1,7 +1,7 @@
 run do |env|
   [
     200,
-    {"Content-Type" => "text/plain"},
+    {"Content-Type" => "text/html"},
     ["<html><body><pre>#{`pandoc --help`}</pre></body></html>"]
   ]
 end

@@ -1,4 +1,7 @@
-source 'https://rubygems.org'
+source "https://rubygems.org"
 
-gem 'sinatra'
+gem "sinatra"
+gem "rackup"
+gem "puma"
+
 gem "pandoc_binary"

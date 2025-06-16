@@ -1,1 +1,1 @@
-web: bundle exec ruby ./config.ru
+web: bundle exec ruby app.rb -e production

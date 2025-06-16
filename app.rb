@@ -1,6 +1,5 @@
-require 'sinatra'
+require "sinatra"
 
-get '/' do
+get "/" do
   "<html><body><pre>#{`pandoc --help`}</pre></body></html>"
 end
-

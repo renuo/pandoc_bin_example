@@ -1,7 +1,4 @@
-source "https://rubygems.org"
+source 'https://rubygems.org'
 
-ruby file: ".ruby-version"
-
-gem "sinatra"
-gem "rackup"
+gem 'sinatra'
 gem "pandoc_binary"

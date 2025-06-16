@@ -14,8 +14,6 @@ GEM
     rack-session (2.1.1)
       base64 (>= 0.1.0)
       rack (>= 3.0.0)
-    rackup (2.2.1)
-      rack (>= 3)
     ruby2_keywords (0.0.5)
     sinatra (4.1.1)
       logger (>= 1.6.0)
@@ -33,11 +31,7 @@ PLATFORMS
 
 DEPENDENCIES
   pandoc_binary
-  rackup
   sinatra
-
-RUBY VERSION
-   ruby 3.4.4p34
 
 BUNDLED WITH
    2.6.9

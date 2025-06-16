@@ -1,1 +1,1 @@
-web: bundle exec falcon serve
+web: bundle exec falcon host
